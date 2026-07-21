@@ -32,6 +32,7 @@ requirements:
     - h2 >=3.1.0
     - hpack
     - anyio >=4.0,<5.0
+    - sniffio
     - priority
     - tomli
     - typing_extensions
