@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.19.2"
+  version: "0.19.3"
 
 package:
   name: anycorn
@@ -9,7 +9,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/a/anycorn/anycorn-${{ version }}.tar.gz
-    sha256: 4ede05dee84cf7561cdea59c2a0a18900dfb8452880091913eea38995b55a712
+    sha256: d138d1e43628b46da4385fdda2014640fbb0dcef6a886a81c4cae1bc181c883a
 
 build:
   number: 0
